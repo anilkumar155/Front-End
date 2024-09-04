@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Heading Tags; Heading 1</h1>
+      <h2>Heading 2</h2>
+      <h3>Heading 3</h3>
+      <h4>Heading 4</h4>
+      <h5>Heading 5</h5>
+      <h6>Heading 6</h6>
+      <a href="https://www.python.org/">Python</a>
+      <img src="./download.jpeg" alt="Codegnan Logo" />
+      <button>Click Here</button>
+      <hr />
+      <div>Division:Div is an block level element, new line and 100% width</div>
+      <div>
+        <br />
+        <span
+          >Span: Span is an inline element and content backgroud space
+        </span>
+        <br /><br />
+        <header>Header: Header is the Semantic Element</header>
+        <section>Section: Section is a Body Semantic Element</section>
+        <footer>Footer: Footer is a Semantic Element</footer>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab esse
+          asperiores quod impedit, sunt, est tempora ut deleniti voluptatibus
+          commodi ea, doloribus corporis. Nostrum dicta saepe nam quia quos
+          quaerat?
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
